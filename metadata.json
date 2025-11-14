@@ -1,0 +1,5 @@
+{
+  "name": "Intelligent Timetable Management System",
+  "description": "An intelligent system to handle sudden teacher absences by automatically rescheduling classes, assigning substitute teachers, updating the timetable in real-time, and sending instant notifications to students and faculty.",
+  "requestFramePermissions": []
+}
